@@ -1,9 +1,6 @@
 #include <stdio.h>
 /*
- * main - Entry point of the program
- *
- * Description: This function prints a message to the console
- * indicating that programming is like building a multilingual puzzle.
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
