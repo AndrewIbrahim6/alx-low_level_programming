@@ -3,10 +3,9 @@
  *
  */
 #include <stdio.h>
-/*main fun */
-int main(void) /*commint*/ 
+/* This function is the entry point of the program and prints a message to the console */
+int main(void)
 {
-/* print the message */	
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
