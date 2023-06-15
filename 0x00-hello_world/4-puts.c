@@ -1,7 +1,11 @@
 #include <stdio.h>
 /*
- * This function is the entry point of the program and prints
- * a message to the console
+ * main - Entry point of the program
+ *
+ * Description: This function prints a message to the console
+ * indicating that programming is like building a multilingual puzzle.
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
