@@ -4,7 +4,9 @@
  */
 #include <stdio.h>
 /*main fun */
-int main(void) {
-/* print the message */	puts("\"Programming is like building a multilingual puzzle");
+int main(void) /*commint*/ 
+{
+/* print the message */	
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
