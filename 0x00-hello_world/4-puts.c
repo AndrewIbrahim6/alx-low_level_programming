@@ -1,7 +1,3 @@
-/*
- * main entry point
- *
- */
 #include <stdio.h>
 /*
  * This function is the entry point of the program and prints
