@@ -7,21 +7,20 @@
 int main(void)
 {
 	int n;
-        int a;
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
-	if (a > 0)
+	if (n > 0)
 	{
-	printf("%d is positive",a);
+	printf("%d is positive",n);
 	}
-	else if (a = 0)
+	else if (n == 0)
 	{
-	printf("%d is zero",a);
+	printf("%d is zero",n);
 	}
 	else 
 	{
-	printf("%d is negative",a);
+	printf("%d is negative",n);
 	}
 	return (0);
 }
