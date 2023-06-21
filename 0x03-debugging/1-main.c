@@ -13,14 +13,10 @@ int main(void)
 
 	i = 0;
 
-	/*
-	*this is the part of the code that is
-	*causing the output to go into an infinite loop.
-	*while (i < 10)
-	*{
-	*	putchar(i);
-	*}
-	*/
+	/*while (i < 10)*/
+	/*{*/
+	/* putchar(i);*/
+	/*}*/
 
 	printf("Infinite loop avoided! \\o/\n");
 
